@@ -3,16 +3,17 @@ body{
     margin: 30px;
 }
 
-h1{
+h1, h3{
     color: brown;
     background-color: dodgerblue;
     padding: 10px;
+    border: 5px solid tomato;
     border-radius: 10px;
-    display: inline;
+    margin-bottom: 20px;
 }
 
 span{
-    color: deeppink;
+    color: rgb(212, 255, 20);
 }
 
 p{
@@ -20,6 +21,7 @@ p{
     background-color:darkorange;
     height: 120px;
     padding: 10px;
+    border: 5px solid firebrick;
     border-radius: 10px;
 }
 
